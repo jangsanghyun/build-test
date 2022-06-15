@@ -1,6 +1,6 @@
 # build-test
 
-## Project setup
+## Project setup ----
 ```
 npm install
 ```
